@@ -1,7 +1,7 @@
 # Contents
 
 * M_tex.bat
-  latex trasration tool for mori
+  - latex trasration tool for mori
 
 * Test2
 * 
