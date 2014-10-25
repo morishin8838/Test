@@ -6,9 +6,9 @@
 
 ## nbviewerを介した公開手順
 1. 保存したipynbファイルをgithubに保存
-    * (例) https://github.com/morishin8838/nbviewer/ABC.ipynb のようにgithubにpush
+    * (例) https://github.com/morishin8838/nbviewer/index.ipynb のようにgithubにpush
 2. nbviewerを介してブラウジング
-    * (例) http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/ABC.ipynb
+    * (例) http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/index.ipynb
 3. 右上にダウンロードボタンがついています。
 
 
