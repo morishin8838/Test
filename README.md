@@ -1,11 +1,11 @@
-# Contents
+#nbviewerを介したnotebookの公開
+==============================
 
-* M_tex.bat
-  - latex trasration tool for mori
+1. ipynbファイルを https://github.com/morisin/nb_20141025 のようにgithubにpush
+2. nbviewerを介してブラウザでブラウジングする
+<http://nbviewer.ipython.org/github/morisin/nb_20141025/blob/master/ABC.ipynb>
 
-* Test2
-* 
-
+:smile:
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
@@ -13,4 +13,3 @@
 - [ ] this is an incomplete item
 - 
 
-:smile:
