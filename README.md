@@ -1,4 +1,7 @@
 #公開用notebookファイル#
+
+[こちらにリスト](http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/index.ipynb)
+
 :smile:
 
 ##nbviewerを介したnotebookの公開##
