@@ -9,7 +9,7 @@ if you success to create custom "handler.py" for local provider , which has tree
 
 ## Procedure to publish your notebook file via github
 1. push the ipynb files to github
-    e.g  (https://github.com/morishin8838/nbviewer/index.ipynb)
+    e.g  (https://github.com/morishin8838/nbviewer/)
 2. access the ipynb file via nbviewer
     e.g  (http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/index.ipynb)
 3. you can download files above button.
