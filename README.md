@@ -1,10 +1,10 @@
 # Private notebook files
 
 I'm impressed notebook of ipython, called jupyter now. I would try to introduce my work flow to improve my jobs. so I created some samples using notebook. then I would present the files as sample using nbviewer. :smile:  
-[top-level of samples](http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/index.ipynb)
+[top-level of samples](http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/index.ipynb)  
 next, I introduced nbviewer server in local, so  I would present my procedure in this repo.
-Finally, I would challenge handler.py of nbviewer provider to custom to put tree function such as github, but I can't.:cry:   
-if you success to create custom handler.py for local provider , which has tuee fuciotn on display, please inform me.
+Finally, I would challenge "handler.py" of nbviewer provider to custom to put tree directory such as github, but I can't.:cry:   
+if you success to create custom "handler.py" for local provider , which has tree directory displayed, please inform me.
 
 ## procedure to publish your notebook file via github
 1. push the ipynb files to github
