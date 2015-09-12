@@ -1,8 +1,8 @@
 # Private notebook files
 
-I'm impressed notebook of ipython, called jupyter now.  I would try to introduce my work flow to improve my jobs. so I create some samples using notebook. then I would present files as samples using nbviwer as here.  
+I'm impressed notebook of ipython, called jupyter now.  I would try to introduce my work flow to improve my jobs. so I create some samples using notebook. then I would present files as samples using nbviwer as here.  :smile:  
 [top-level of samples](http://nbviewer.ipython.org/github/morishin8838/nbviewer/blob/master/index.ipynb)
-:smile:
+
 and I try to introduce nbviewer local server. I would note my proccedure in this repo.
 
 ## Procesure of publishment via nbviewer
